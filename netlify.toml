@@ -1,2 +1,4 @@
 [build]
-  ignore = "exit 0"
+  command = "echo root config"
+  base = "/projects/project2"
+  publish = "something-else"
