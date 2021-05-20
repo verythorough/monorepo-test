@@ -1,4 +1,0 @@
-[build]
-  command = "echo root config"
-  base = "/projects/project2"
-  publish = "something-else"
